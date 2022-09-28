@@ -31,7 +31,7 @@ spring:
 lab:
   account:
     exceptions:
-      account-dont-exists-message: "Conta não encontrada."
-      account-dont-exists-description: "Não foi possível encontrar a conta corrente informada."
+      account-dont-exists-message: "Conta nao encontrada."
+      account-dont-exists-description: "Nao foi possivel encontrar a conta corrente informada."
       account-without-balance-message: "Saldo insuficiente."
-      account-without-balance-description: "Não foi possível efetuar o débito, o saldo da conta informada é insuficiente."
+      account-without-balance-description: "Nao foi possivel efetuar o debito, o saldo da conta informada e insuficiente."
